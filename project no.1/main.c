@@ -3,7 +3,7 @@
 int main()
 {
    int n,k,l,m;
-   printf("Enter the value of rows above central star");
+   printf("Enter the value of rows above central starlklkslks");
    scanf("%d",&n);
    m=((2*n)+1);
    char arr[m][m];
